@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['Nitro Resellers', 'Not An Exit Scam', 'Timewaste = dox/ban', 'Were on top', 'Banning femboys', 'discord.gg/fraudulent'];
+  brandDescription = ['not and exit scam', 'banning tranies', 'tools', 'steam accounts', 'credit cards lol', 'skrrt on top'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
